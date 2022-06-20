@@ -1,6 +1,6 @@
 {
   "name": "@revelar-repo/ui",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": false,
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
